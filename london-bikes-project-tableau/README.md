@@ -7,7 +7,7 @@ The interactive dashboard allows to highlight with the mouse an arbitrary period
 
 the csv file is the original file, and the Excle file is the final result after transformed using Python.
 
-You can see the online dashboard [here]()(https://public.tableau.com/app/profile/carlos.eduardo.gutierrez.villamizar/viz/LondonBikeRides_16995048248720/Dashboard1)
+You can see the online dashboard [here](https://public.tableau.com/app/profile/carlos.eduardo.gutierrez.villamizar/viz/LondonBikeRides_16995048248720/Dashboard1)
 
 ## Client Requirements
 
