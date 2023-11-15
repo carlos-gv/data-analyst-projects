@@ -1,7 +1,7 @@
 
 # Pizza Restaurant Sales Report
 
-This Project is about an interactive dashboard made in Power Bi for a fictional pizza restaurant. This restaurant have a very specific request about the data they want to visualize and how to. They also want sugested insights about the data, inside the report.
+This Project is about an interactive dashboard made in Power Bi for a fictional pizza restaurant. This restaurant have a very specific request about the data they want to visualize and how to. They also want suggested insights about the data, inside the report.
 
 Although not recommended, by request of the client, the dashboard was filled with as much information as it could be done.
 
