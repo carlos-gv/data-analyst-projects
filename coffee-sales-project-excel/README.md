@@ -1,7 +1,7 @@
 
 # Coffee Sales Report Project
 
-This is as project about a fictional coffee shop that is asking for a dashboard in Excel. They have some specific questions about their sales. This project was entirely made with Excel using dinamic tables, pivot tables, between other strategies to fulfill the client requirements.
+This is as project about a coffee shop that is asking for a dashboard in Excel. They have some specific questions about their sales. This project was entirely made with Excel using dinamic tables, pivot tables, between other strategies to fulfill the client requirements.
 
 the file "coffeeOrdersData" is the original file, and "coffeeOrdersDataDashBoard" is the final result.
 
